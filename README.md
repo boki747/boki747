@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boki747
 - 👀 I’m interested in ... restoring old HiFi products like amps and turntables
-- 🌱 I’m currently learning ... Jupyterlab, Linux Ubuntu, Owon vds1022i handling
+- 🌱 I’m currently learning ... Jupyterlab, Linux Ubuntu, Owon vds1022i handling in jupyterlab
 - 💞️ I’m looking to collaborate on ... measurement technique for audio gear
 - 📫 How to reach me ... boxy74@gmx.de
 
